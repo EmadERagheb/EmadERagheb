@@ -1,6 +1,6 @@
 <!-- ═════════════════════════  HEADER  ═════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1F2A44,100:E3B341&height=210&section=header&text=Emad%20Eid%20Ragheb&fontSize=50&fontColor=F0F6FC&fontAlignY=36&desc=Senior%20Software%20%26%20Cloud%20Engineer&descSize=18&descAlignY=57&animation=fadeIn" width="100%" alt="Emad Eid Ragheb" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1F2A44,100:E3B341&height=210&section=header&text=Emad%20Eid%20Ragheb&fontSize=50&fontColor=F0F6FC&fontAlignY=36&desc=Senior%20Software%20%26amp%3B%20Cloud%20Engineer&descSize=18&descAlignY=57&animation=fadeIn" width="100%" alt="Emad Eid Ragheb" />
 </p>
 
 <p align="center">
